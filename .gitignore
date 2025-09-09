@@ -1,0 +1,18 @@
+__pycache__/
+.DS_Store
+.pytest_cache/
+.idea/
+.vscode/
+*.pyc
+*.pyo
+.venv/
+env/
+venv/
+
+# Project outputs
+models/
+results/
+pcr_ngs_mapper/data/
+pcr_ngs_mapper/.venv/
+*.png
+*.jsonl
